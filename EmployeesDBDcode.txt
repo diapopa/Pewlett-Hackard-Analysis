@@ -39,3 +39,21 @@ emp_no int pk fk -< Employees.emp_no
 title varchar pk
 from_date date pk
 to_date date
+
+table_1
+-
+emp_no int pk fk -< Employees.emp_no
+first_name varchar
+last_name varchar
+from_date date
+title varchar 
+salary int
+
+table_2
+-
+emp_no int pk fk -< Employees.emp_no
+first_name varchar
+last_name varchar
+title varchar 
+from_date date
+to_date date
