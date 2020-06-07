@@ -14,4 +14,6 @@ Results, Limitations, and Next Steps
 --
 The number of employees retiring is 33118 and the number of individuals being hired to fill those roles would be the same, 33118. 
 The number of employees available for the mentorship role is 1549.
-One recommendation for further analysis on this dataset is looking at the number of people retiring based on the department. This would help the company understand whic departments will be undergoing the most change in the near future and prepare for it.
+One recommendation for further analysis on this dataset is looking at the number of people retiring based on the department. This would help the company understand which departments will be undergoing the most change in the near future and prepare for it.
+
+![](EmployeesDB.png)
