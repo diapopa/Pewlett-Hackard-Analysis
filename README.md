@@ -21,4 +21,5 @@ One limitation of the data is that people do retire at different ages so this ex
 One recommendation for further analysis on this dataset is looking at the number of people retiring based on the department. This would help the company understand which departments will be undergoing the most change in the near future and prepare for it.
 
 Below is the image of the ERD I created according to the module lessons, updated to include the two tables created for the challenge.
+
 ![](EmployeeDB.png)
